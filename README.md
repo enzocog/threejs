@@ -1,2 +1,3 @@
-# threejs
-sandbox for exploring threejs ideas
+# Proceduarally Generated 3D Landscape Environment Using React.JS, Three.JS, & ThreeX
+
+ 
